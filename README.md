@@ -1,0 +1,2 @@
+# Airbnb-price-category-prediction-using-multi-modality-text-image-model.
+It is a Kaggle competition: The problem is determining the appropriate listing price for a new Airbnb listing, which is a common challenge for hosts. To accomplish this, we will use the listing's characteristics and images to predict its price. you can see my Kaggle competitions here:https://www.kaggle.com/competitions/copy-of-cisc-873-dm-w23-a4
